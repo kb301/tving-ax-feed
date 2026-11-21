@@ -1,0 +1,39 @@
+{
+ "updated": "2026-11-20T23:35:14+09:00",
+ "status": {
+  "added": 31,
+  "aiReviewed": 150,
+  "at": "2026-11-20T07:55:00+09:00",
+  "batch": "auto20261120",
+  "collected": 266,
+  "labeler": "Claude",
+  "note": "추가 31건(앱리뷰 12·커뮤니티 6·블로그 3·뉴스 10 / 넷플릭스 17·쿠팡플레이 7·티빙 7) · 수집 266건(App Store 43·Google Play 120·커뮤니티 49·블로그 30·뉴스 24) 중 이미 검토 174·중복 2·10자 미만 2 제외 · 후보 88 중 AI 제외 57 · 검수 대기 150건 AI 판정(제외 2) · YouTube 댓글 수집 실패(blocked)",
+  "ok": true,
+  "youtube": "blocked(댓글)"
+ },
+ "batches": [
+  {
+   "bid": "auto20261119",
+   "file": "batches/auto20261119.json",
+   "count": 10,
+   "cdate": "2026-11-19",
+   "name": "자동 수집 2026-11-19"
+  },
+  {
+   "bid": "auto20261119w",
+   "file": "batches/auto20261119w.json",
+   "count": 29,
+   "cdate": "2026-11-19",
+   "name": "자동 수집 2026-11-19 (웹문서 시험)"
+  },
+  {
+   "bid": "auto20261120",
+   "file": "batches/auto20261120.json",
+   "count": 31,
+   "cdate": "2026-11-20",
+   "name": "자동 수집 2026-11-20"
+  }
+ ],
+ "reviews": "reviews.json",
+ "reviewCount": 832
+}
