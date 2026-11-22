@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-22T08:21:23+09:00",
+ "updated": "2026-11-23T08:21:14+09:00",
  "status": {
   "added": 41,
-  "aiReviewed": 150,
-  "at": "2026-11-22T07:58:00+09:00",
-  "batch": "auto20261122",
-  "collected": 237,
+  "aiReviewed": 147,
+  "at": "2026-11-23T07:58:00+09:00",
+  "batch": "auto20261123",
+  "collected": 281,
   "feed": "실패: kb301/tving-ax-feed 가 이 예약 작업의 허용 저장소에 없어 push 403 (시험 실행 2차, add_repo 도구 없음)",
   "feedAt": "2026-11-21T21:10:10+09:00",
   "labeler": "Claude",
-  "note": "추가 41건(앱리뷰 15·커뮤니티 18·블로그 2·뉴스 6 / 넷플릭스 23·티빙 11·쿠팡플레이 7) · 수집 237건(App Store 27·Google Play 109·커뮤니티 47·블로그 30·뉴스 24) 중 이미 검토 134·중복 4·10자 미만 2 제외 · 후보 97 중 AI 제외 56 · 검수 대기 150건 AI 판정(제외 1) · YouTube 댓글 수집 실패(blocked)",
+  "note": "추가 41건(앱리뷰 18·커뮤니티 11·블로그 2·뉴스 10 / 넷플릭스 16·티빙 8·쿠팡플레이 7, 뉴스 제외) · 수집 281건(App Store 25·Google Play 110·YouTube 46·커뮤니티 46·블로그 30·뉴스 24) 중 이미 검토 127·10자 미만 23 제외 · 후보 131 중 AI 제외 90 · 검수 대기 147건 AI 판정(제외 0, 대기분 전량) · YouTube 일부 영상 댓글 수집 실패, 수집 댓글은 대부분 무관 · finalize 스크립트 yt 변수 오류는 로컬 우회 실행",
   "ok": true,
-  "youtube": "blocked(댓글)"
+  "youtube": "ok"
  },
  "batches": [
   {
@@ -48,8 +48,15 @@
    "count": 41,
    "cdate": "2026-11-22",
    "name": "자동 수집 2026-11-22"
+  },
+  {
+   "bid": "auto20261123",
+   "file": "batches/auto20261123.json",
+   "count": 41,
+   "cdate": "2026-11-23",
+   "name": "자동 수집 2026-11-23"
   }
  ],
  "reviews": "reviews.json",
- "reviewCount": 1432
+ "reviewCount": 1579
 }
