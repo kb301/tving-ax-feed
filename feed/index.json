@@ -24,53 +24,53 @@
   {
    "bid": "auto20261119w",
    "file": "batches/auto20261119w.json",
-   "count": 29,
+   "count": 14,
    "cdate": "2026-11-19",
    "name": "자동 수집 2026-11-19 (웹문서 시험)"
   },
   {
    "bid": "auto20261120",
    "file": "batches/auto20261120.json",
-   "count": 31,
+   "count": 21,
    "cdate": "2026-11-20",
    "name": "자동 수집 2026-11-20"
   },
   {
    "bid": "auto20261121",
    "file": "batches/auto20261121.json",
-   "count": 34,
+   "count": 24,
    "cdate": "2026-11-21",
    "name": "자동 수집 2026-11-21"
   },
   {
    "bid": "auto20261122",
    "file": "batches/auto20261122.json",
-   "count": 41,
+   "count": 22,
    "cdate": "2026-11-22",
    "name": "자동 수집 2026-11-22"
   },
   {
    "bid": "auto20261123",
    "file": "batches/auto20261123.json",
-   "count": 41,
+   "count": 23,
    "cdate": "2026-11-23",
    "name": "자동 수집 2026-11-23"
   },
   {
    "bid": "auto20261124",
    "file": "batches/auto20261124.json",
-   "count": 36,
+   "count": 19,
    "cdate": "2026-11-24",
    "name": "자동 수집 2026-11-24"
   },
   {
    "bid": "auto20261125",
    "file": "batches/auto20261125.json",
-   "count": 49,
+   "count": 25,
    "cdate": "2026-11-25",
    "name": "자동 수집 2026-11-25"
   }
  ],
  "reviews": "reviews.json",
- "reviewCount": 1579
+ "reviewCount": 1462
 }
